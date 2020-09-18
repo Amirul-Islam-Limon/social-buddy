@@ -1,0 +1,11 @@
+.post-details{
+    background-color: rgb(211, 210, 210);
+    margin-top: -23px;
+}
+.post-section{
+    height: 300px;
+    padding-top: 50px;
+}
+.post-section h1{
+    padding-top: 10px;
+}

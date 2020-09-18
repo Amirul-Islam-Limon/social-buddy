@@ -1,0 +1,15 @@
+.post{
+    width: 800px;
+    height: 200px;
+    background-color: #ecb2bc;
+    margin: 0 auto;
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.post h4{
+    padding-top:20px;
+}
+.post Button {
+    margin-bottom: 50px;
+}
